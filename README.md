@@ -2,8 +2,6 @@
 
 ```json
 "learning": [
-  "backend",
-  "devops",
   "game programming"
 ]
 ```
